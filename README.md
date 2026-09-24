@@ -96,22 +96,15 @@ Booklet management application with document and export workflows.
 
 <div align="center">
 
-<a href="https://github.com/mukilanvk">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukilanvk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=mukilanvk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Mukilan VK GitHub Stats">
 
-<a href="https://github.com/mukilanvk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilanvk&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilanvk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Mukilan VK Top Languages">
 
-<br>
+<br><br>
 
-<a href="https://github.com/mukilanvk">
-  <img src="https://streak-stats.demolab.com?user=mukilanvk&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</a>
+<img src="https://streak-stats.demolab.com/?user=mukilanvk&theme=tokyonight&hide_border=true" height="170" alt="Mukilan VK GitHub Streak">
 
 </div>
-
 ---
 
 ## 🏆 Certification

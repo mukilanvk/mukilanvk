@@ -1,94 +1,116 @@
-<h1 align="center">Hi 👋, I'm Mukilan VK</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | React.js | Next.js | Python | FastAPI
-</h3>
+<img src="./assets/banner.png" alt="Mukilan VK - Full Stack Developer" width="100%">
 
-<p align="center">
-  Building scalable web applications and exploring Generative AI.
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mukilan-karupusamy-94560a283">
-    LinkedIn
-  </a>
-  •
-  <a href="mailto:vkmukilan@gmail.com">
-    Email
-  </a>
-</p>
+<a href="https://github.com/mukilanvk">
+  <img src="https://img.shields.io/badge/GitHub-View_My_Work-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/mukilan-karupusamy-94560a283">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:vkmukilan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 💻 Full Stack Developer with experience in modern web development
-- ⚛️ Specialized in React.js and Next.js
-- 🐍 Backend development using Python and FastAPI
-- 🗄️ Working with PostgreSQL and MongoDB
-- 🔗 REST API integration and testing
-- 🤖 Interested in Generative AI and AI-assisted development
-- 🚀 Passionate about building real-world applications
+I'm **Mukilan VK**, a Full Stack Developer focused on building scalable, responsive and user-focused web applications.
+
+- ⚛️ React.js & Next.js
+- 🐍 Python & FastAPI
+- 🗄️ PostgreSQL & MongoDB
+- 🔗 REST API development and integration
+- 🎨 Responsive UI development
+- 🤖 Generative AI and AI-assisted development
+- 🚀 Interested in modern full-stack application architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,python,fastapi,postgresql,mongodb,git,github,gitlab,vscode,postman" alt="Tech Stack">
+</p>
 
-JavaScript • React.js • Next.js • HTML • CSS
-
-### Backend
-
-Python • FastAPI • Node.js
-
-### Database
-
-PostgreSQL • MongoDB
-
-### Tools
-
-Git • GitHub • GitLab • Postman • Swagger • VS Code
+**AI-Assisted Development:** Antigravity • Windsurf • Cursor • Codex
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎓 Everest Tutoring
-
-Production e-learning and examination platform.
+Production e-learning and examination platform for an Australian client.
 
 **React.js • Python • FastAPI • PostgreSQL**
 
 - GATE and UCAT modules
-- Online examinations
-- Practice tests
-- Admin and CRM modules
+- Online examinations and practice tests
+- Admin and CRM workflows
 - Student and tutor workflows
+- Supports 500+ students
 
 ### 🌐 EventSphere
-
-Venue booking platform for weddings, conferences, corporate events and other functions.
+Venue booking platform for marriages, conferences, corporate events, parties and other functions.
 
 **React.js • Python • FastAPI**
 
-### ⚡ Moneypechu
-
-SEO-friendly blog and content platform.
+### 📝 Moneypechu
+SEO-friendly blog and content platform built with Next.js.
 
 **Next.js**
 
-### 🚦 Traffic Time Saver
+### 🤖 Personal Gemini Journal
+AI-powered journaling application using Gemini with user-isolated data.
 
-Machine-learning-based traffic management application.
+**Next.js • Firebase • Firestore • Gemini**
+
+### 🚦 Traffic Time Saver
+Machine-learning-based traffic management application for vehicle counting and dynamic traffic signal timing.
 
 **Python • Machine Learning**
 
-### 🤖 Personal Gemini Journal
+### 📚 Everest Booklet
+Booklet management application with document and export workflows.
 
-AI-powered journaling application.
+**React.js • TypeScript • Material UI**
 
-**Next.js • Firebase • Firestore • Gemini**
+---
+
+## 💼 Professional Experience
+
+| Company | Role | Period |
+|---|---|---|
+| **Aagnia Technology** | Full Stack Developer | May 2025 – Present |
+| **XYLOITE Technology** | Associate Software Engineer | Apr 2024 – Dec 2024 |
+| **Xylonic Technology** | Software Engineer Intern | Oct 2023 – Mar 2024 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/mukilanvk">
+  <img src="https://github-readme-stats.vercel.app/api?username=mukilanvk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats">
+</a>
+
+<a href="https://github.com/mukilanvk">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilanvk&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
+</a>
+
+<br>
+
+<a href="https://github.com/mukilanvk">
+  <img src="https://streak-stats.demolab.com?user=mukilanvk&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</a>
+
+</div>
 
 ---
 
@@ -98,19 +120,38 @@ AI-powered journaling application.
 
 Completed
 
+`Certificate ID: 2026H2S09GCGENAIAPACC3-P01666`
+
 ---
 
 ## 📄 Publication
 
 **Efficient Algorithm for Recognition of Handwritten Characters**
 
-Published at ICICT — International Conference on Computing and Technology.
+Published at **ICICT — International Conference on Computing and Technology**.
 
 ---
 
-## 🤝 Let's Connect
+## 🎓 Education
 
-📧 vkmukilan@gmail.com
+**M.Sc — Computer Science**  
+Sri Krishna College of Arts and Science, Coimbatore — 2022–2024
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/mukilan-karupusamy-94560a283
+**B.Sc — Computer Science**  
+Kovai Kalaimagal Arts and Science College, Coimbatore — 2019–2022
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mukilanvk">GitHub</a> •
+<a href="https://www.linkedin.com/in/mukilan-karupusamy-94560a283">LinkedIn</a> •
+<a href="mailto:vkmukilan@gmail.com">Email</a>
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>

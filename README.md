@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Mukilan VK - Full Stack Developer" width="100%">
+<img src="./assests/banner.png" alt="Mukilan VK - Full Stack Developer" width="100%">
 
 <br>
 

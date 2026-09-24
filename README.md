@@ -91,18 +91,41 @@ Booklet management application with document and export workflows.
 | **Xylonic Technology** | Software Engineer Intern | Oct 2023 – Mar 2024 |
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukilanvk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Mukilan VK GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukilanvk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Mukilan VK Top Languages">
+<a href="https://github.com/mukilanvk">
+  <img
+    src="https://streak-stats.demolab.com/?user=mukilanvk&theme=tokyonight&hide_border=true"
+    alt="Mukilan VK GitHub Streak"
+  />
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=mukilanvk&theme=tokyonight&hide_border=true" height="170" alt="Mukilan VK GitHub Streak">
+### 💻 My GitHub
+
+<a href="https://github.com/mukilanvk">
+  <img
+    src="https://img.shields.io/github/followers/mukilanvk?style=for-the-badge&logo=github&label=Followers"
+    alt="GitHub Followers"
+  />
+</a>
+
+<a href="https://github.com/mukilanvk?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Public%20Repositories-18-18181B?style=for-the-badge&logo=github"
+    alt="Public Repositories"
+  />
+</a>
+
+<a href="https://github.com/mukilanvk">
+  <img
+    src="https://img.shields.io/github/stars/mukilanvk?style=for-the-badge&logo=github&label=Total%20Stars"
+    alt="GitHub Stars"
+  />
+</a>
 
 </div>
 ---
